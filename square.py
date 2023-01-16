@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/177iLejlCu2-a11TyfePKPQRsYZILWPSz
 """
 
-import numpy as np
+
 
 list1=[2,4,6,8,10]
 for i in list1:
